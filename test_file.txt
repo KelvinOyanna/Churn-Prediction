@@ -1,2 +1,0 @@
-We created this file in a new branch to understand its versions.
-This is quite interesting.
